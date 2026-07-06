@@ -8,3 +8,6 @@ Tecnologias utilizadas:
 - JSP
 - MySQL
 - Maven
+
+Inception do projeto em:
+https://docs.google.com/document/d/1cq9Xmkvu8_28qRVUZnIyGUBiNAXK_QXt/
